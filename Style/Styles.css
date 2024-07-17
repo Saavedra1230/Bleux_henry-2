@@ -1,0 +1,19 @@
+.barra {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding: 180px
+
+}
+
+.boton1 {
+    background: -webkit-linear-gradient(45deg, #6b0c91, #195df0 50%);
+}
+
+.sub_barra {
+    background-color: #170f24;
+    width: 100%;
+    height: 90px;
+}
